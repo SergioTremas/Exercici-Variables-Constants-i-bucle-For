@@ -1,0 +1,7 @@
+E:\BarcelonaActiva\.net\ejercicioVariables\ejercicioVariables\bin\Debug\ejercicioVariables.exe.config
+E:\BarcelonaActiva\.net\ejercicioVariables\ejercicioVariables\bin\Debug\ejercicioVariables.exe
+E:\BarcelonaActiva\.net\ejercicioVariables\ejercicioVariables\bin\Debug\ejercicioVariables.pdb
+E:\BarcelonaActiva\.net\ejercicioVariables\ejercicioVariables\obj\Debug\ejercicioVariables.csprojAssemblyReference.cache
+E:\BarcelonaActiva\.net\ejercicioVariables\ejercicioVariables\obj\Debug\ejercicioVariables.csproj.CoreCompileInputs.cache
+E:\BarcelonaActiva\.net\ejercicioVariables\ejercicioVariables\obj\Debug\ejercicioVariables.exe
+E:\BarcelonaActiva\.net\ejercicioVariables\ejercicioVariables\obj\Debug\ejercicioVariables.pdb
